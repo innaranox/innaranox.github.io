@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://innaranox.github.io/sitemap.xml
